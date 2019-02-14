@@ -1,12 +1,12 @@
 {
-  "name": "ngx-tinymce",
-  "version": "7.0.1",
+  "name": "wa-ngx-tinymce",
+  "version": "1.0.0",
   "description": "Angular for tinymce",
   "license": "MIT",
-  "author": "cipchk",
-  "homepage": "https://cipchk.github.io/ngx-tinymce/",
+  "author": "ky0suke",
+  "homepage": "https://ky0suke.github.io/ngx-tinymce/",
   "bugs": {
-    "url": "https://github.com/cipchk/ngx-tinymce/issues"
+    "url": "https://github.com/ky0suke/ngx-tinymce/issues"
   },
   "scripts": {
     "analyze": "ng build --prod --build-optimizer --stats-json",
